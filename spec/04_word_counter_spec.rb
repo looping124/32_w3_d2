@@ -1,0 +1,1 @@
+require_relative '../lib/04_word_counter.rb'
